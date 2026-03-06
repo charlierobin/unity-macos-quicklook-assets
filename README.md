@@ -2,7 +2,7 @@ Adds the standard MacOS space bar shortcut to the Unity Editor Assets menu.
 
 Sends the paths of any selected assets to the qlmanage app.
 
-(A complete bodge, as the qlmanage app was really only supplied to be used for debugging QuickLook extensions.)
+(A complete bodge, as the qlmanage app was really only supplied to be used for debugging QuickLook extensions. But it works: you get a nice QuickLook-style preview window, even with multiple asset files selected.)
 
 But I used it for years on systems up to Catalina, and it seemed happy enough. I always wanted to check it out on the more recent versions, but never seem to get around to it.
 
